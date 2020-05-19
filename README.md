@@ -1,2 +1,2 @@
 # GCI2019-winter（東大データサイエンス基礎講座）
-Pythonの応用学習の一つとして考えています。
+WhirlwindTourOfPythonでPythonの基礎を学んだ人の応用学習の一つとして考えています。
